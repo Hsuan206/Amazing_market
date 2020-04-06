@@ -1,28 +1,28 @@
-
-# 網頁專案：寵物寄養/託管平台
-
+# 網頁專案：妙花種子
+有鑒於媒體常因為天候因素等相關因素製造輿論讓業者藉機哄抬價格，而資訊不夠透明也不易取得，導致資訊不對等。希望能夠為減少資訊的不對等、讓各地市場的價格透明化盡一份心力。除了能夠知道各地的即時菜價之外也可以將市場菜價的變化展露無遺，知道是哪個市場率先漲價哄抬價格。因此希冀藉由此平台，提供公開透明的即時菜價。
+* 系統特色
+(1)	使用者在系統中分享該植物的相關食譜以及菜價上漲時的替代食材。
+(2)	系統主打查詢功能，使用者可以查詢特定市場、特定植物或是特定價格區間，方便使用者找出最適合的植物、市場。
+(3)	收藏功能方便使用者一進入我們的系統就可以看到自己常用的資訊。
+* 農產品交易行情資訊的主要來源為「政府資料開放平台」（https://data.gov.tw/）
 ## 介面
 ### 登入畫面
-![](https://i.imgur.com/T8B1SH4.png)
+![](https://i.imgur.com/Om1DCMH.png)
+## 搜尋功能
+* 在查詢作物名稱之外，可以選擇目前有的市場選項做範圍限制
+![](https://i.imgur.com/ODAC25L.png)
+## 收藏功能
+* 在使用者已經登入後，可將特定農作物加入收藏
+![](https://i.imgur.com/t9z9F4P.png)
+## 查看個人收藏
+![](https://i.imgur.com/EqjLCLl.png)
+## 新增文章
+* 可透過新增文章功能發表食譜等相關資訊
+![](https://i.imgur.com/FKxN2Lr.png)
+## 查看文章
+![](https://i.imgur.com/ZESHNtp.png)
+## 修改及刪除文章
+![](https://i.imgur.com/HdseYTW.png)
+## 留言文章
+![](https://i.imgur.com/fM2H0ev.png)
 
-## 寄養功能
-![](https://i.imgur.com/EmDlFlv.png)
-
-## 託管功能
-![](https://i.imgur.com/sAZ76X4.png)
-
-## 查詢功能
-![](https://i.imgur.com/fOubqCS.png)
-![](https://i.imgur.com/cHVnFze.png)
-
-![](https://i.imgur.com/Ei9yHy4.png)
-
-
-## 查看寄養紀錄
-![](https://i.imgur.com/cCHUOaz.png)
-
-## 查看申請寄養人
-![](https://i.imgur.com/TZWbdJE.png)
-
-## 查看託管紀錄
-![](https://i.imgur.com/KuvSN01.png)
